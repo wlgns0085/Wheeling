@@ -1,2 +1,13 @@
-# Wheeling
-Smart Electric Wheelchair for Probono
+# Wheeling (Wheelchair + willing)  
+프로보노 공모전에 출전한 스마트 전동휠체어  
+
+
+## 개발현황  
+### 1. 휠모터  
+### 2. 전동실린더  
+### 3. 직접조작  
+### 4. 원격조작  
+### 5. 거리센서  
+### 6. 기울기센서  
+### 7. GPS모듈  
+### 8. 심박센서
